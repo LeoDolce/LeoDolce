@@ -9,6 +9,7 @@ Analista de Dados com experiência em SQL, Python, ETL e automação de processo
 - Databricks
 - MySQL
 - Oracle PL/SQL
+- N8N
 - Power BI
 
 ## Experiência
