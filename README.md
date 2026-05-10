@@ -1,16 +1,30 @@
-## Hi there 👋
+# Leonardo Dolce
 
-<!--
-**LeoDolce/LeoDolce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados com experiência em SQL, Python, ETL e automação de processos.
 
-Here are some ideas to get you started:
+## Tecnologias
+- SQL
+- Python
+- Alteryx
+- Databricks
+- MySQL
+- Oracle PL/SQL
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência
+- EY
+- TCS
+- Oracle/PLSQL
+- Automação de processos
+- ETL
+- Tratamento de dados
+
+## Projetos
+- Receita Federal ETL
+- Data Cleaning com Python
+- Estudos SQL
+
+## Atualmente estudando
+- Engenharia de Dados
+- Analytics Engineering
+- Automação de Processos
